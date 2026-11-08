@@ -1,0 +1,4 @@
+cd /workspaces/*/
+unzip -o "TuckShopManager.zip"
+cd TuckShopManager
+bash build_codespace.sh
